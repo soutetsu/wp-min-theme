@@ -1,0 +1,11 @@
+/*
+Theme Name: foo
+Text Domain: foo
+Version: 0.1
+Description: This is foo theme
+Author: iwata
+Author URI: https://example.com/
+*/
+
+@import url("vendor/bulma-0.8.0/css/bulma.min.css");
+@import url("assets/stylesheets/common.css");
